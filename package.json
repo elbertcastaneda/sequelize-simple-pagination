@@ -21,7 +21,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "jest": "^24.8.0",
-    "sequelize": "^5.8.9",
+    "sequelize": "^5.8.10",
     "sqlite3": "^4.0.9"
   }
 }
