@@ -16,12 +16,12 @@
     "url": "git+https://github.com/eugenechen0514/sequelize-simple-pagination.git"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.14"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "jest": "^24.8.0",
-    "sequelize": "^5.9.2",
+    "sequelize": "^5.10.1",
     "sqlite3": "^4.0.9"
   }
 }
